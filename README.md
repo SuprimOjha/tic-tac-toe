@@ -3,7 +3,7 @@
 > A futuristic graphical Tic-Tac-Toe game built with modern C++ and raylib.
 
 <p align="center">
-  <img src="assets/screenshots/image.png" width="850">
+  <img src="assets/image.png" width="850">
 </p>
 
 ## ✨ About
@@ -15,7 +15,7 @@ The project transforms the classic 3×3 game into an interactive graphical exper
 ## 🎮 Gameplay
 
 <p align="center">
-  <img src="assets/screenshots/game.png" width="850">
+  <img src="assets/game.png" width="850">
 </p>
 
 The game supports mouse-based interaction and provides visual feedback for player moves and game results.
