@@ -66,7 +66,6 @@ Core concepts include:
 cpp-tic-tac-toe/
 │
 ├── assets/
-│   └── screenshots/
 │       ├── image.png
 │       └── game.png
 │
