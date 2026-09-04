@@ -103,17 +103,5 @@ cmake --build build
 ./build/tic-tac-toe.exe
 ```
 
-## 📸 Screenshots
 
-### Interface
-
-<p align="center">
-  <img src="assets/screenshots/image.png" width="850">
-</p>
-
-### Victory
-
-<p align="center">
-  <img src="assets/screenshots/game.png" width="850">
-</p>
 
