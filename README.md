@@ -6,7 +6,7 @@
   <img src="assets/image.png" width="850">
 </p>
 
-## ✨ About
+##  About
 
 **TITAN TACTICS** is a graphical Tic-Tac-Toe game developed in C++ using raylib.
 
